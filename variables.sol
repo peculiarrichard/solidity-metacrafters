@@ -1,5 +1,5 @@
-//SPDX-Licencense-Identifier: MIT
-pragma solidity ^0.6.0;
+//SPDX-License-Identifier: MIT
+pragma solidity ^0.8.18;
 
 contract MyContract {
     string public myString;
